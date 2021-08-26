@@ -2,7 +2,7 @@
   <img width="500" height="450" src="https://github.com/pbizil/gaia_bndes/blob/main/gaia_bndes.png">
 </p>
 
-Este projeto consiste em uma aplicação voltada para o Prêmio Dados Abertos do BNDES. 
+Este projeto consiste em uma aplicação voltada para o [Prêmio Dados Abertos para o Desenvolvimento](https://www.bndes.gov.br/wps/portal/site/home/transparencia/iniciativas/!ut/p/z0/fY5PC4JAFMTvfYoue5S3QmRXs_APEUgedC_y0iVe5a7ubtLHT0Q8NocZfjADAwJKEApHeqAjrfA9cSX2dZDHURLu_MuhSCKeR9kEQezHqQ_ZZjtrsxqI_4tyWSz1NaCi5zCIEESjlZNfB-Xxejrf6lRZR-7TzI8YT3QnGS8MKtujkaohZJwUTeloRMt4b2RH2mux1dbDuzROW-hfovoBqFEnTw!!/), realizado pelo BNDES. 
 
 Gaia é um robô que identifica, através de informações sobre o CNPJ, a probabilidade da empresa ser uma poluidora do meio ambiente. O nome do modelo faz alusão à deusa da mitologia grega, que personifica a deusa da Terra, geradora de todos os deuses e criadora do planeta. 
 
@@ -55,10 +55,11 @@ Esta aplicação foi criada com intuito de auxiliar às equipes de negócio BNDE
 
 - Linguagem Python para extração e organizacao dados, além da modelagem do Gaia;
 - Linguagem R para visualização;
+- SQL para requisição de dados de CNPJ;
 - Shiny para criação do dashboard;
-- Leaflet
-- LightAutoML
-- Modelo pré-treinado
+- Biblioteca Leaflet para visualização de dados geolocalizados;
+- Biblioteca LightAutoML para construção do modelo Gaia;
+- Modelo de NLP pré-treinado;
 
 ## Features do dashboard:
 
@@ -70,7 +71,7 @@ Esta aplicação foi criada com intuito de auxiliar às equipes de negócio BNDE
 - [BaseDosDados](https://basedosdados.org/): plataforma que visa facilitar o acesso a base de dados nacionais e internacionais. 
 - [GeoBR](https://github.com/ipeaGIT/geobr): pacote em R com dados georeferenciados do Brasil sobre diversos temas. Neste trabalho, utilizou-se o georeferenciamento de reservas indígenas e unidades de conservação, ambas bases do IBAMA.
 - [LightAutoML (LAMA)](https://github.com/sberbank-ai-lab/LightAutoML): é uma **framework open source de AutoML** desenvolvida pelo Sberbak AI Lab AutoML Group. É uma ferramenta para desenvolvimento de modelos que envolvam problemas de classificação binária, multiclass e regressão. 
-- 
+- HuggingFace
 
 
 
