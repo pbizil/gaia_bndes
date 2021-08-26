@@ -31,10 +31,11 @@ Stack de tecnologia:
 
 Referências:
 
-- Minha receita
-- Brasil.io
-- BaseDosDados
-- 
+- Minha receita:
+- Brasil.io:
+- BaseDosDados:
+- GeoBR:
+- <a href=“https://github.com/sberbank-ai-lab/LightAutoML“>LightAutoML (LAMA)</a>: é uma **framework open source de AutoML** desenvolvida pelo Sberbak AI Lab AutoML Group. É uma ferramenta para desenvolvimento de modelos que envolvam problemas de classificação binária, multiclass e regressão. 
 
 
 
