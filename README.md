@@ -25,18 +25,23 @@ Esta aplicação foi criada com intuito de auxiliar às equipes de negócio BNDE
    - **Sobre:** Relação das pessoas jurídicas que efetuaram a inscrição no Cadastro Técnico Federal de Atividades Potencialmente Poluidoras e Utilizadoras de Recursos Naturais – CTF/APP. Neste link consta apenas uma parte de base de dados, que está dividada por Unidade Federativa;
    - **Função:** Dados sobre CNPJ de empresas consideradas potencialmente poluidoras.
 
-- [Acidentes ambientais](https://dados.gov.br/dataset/comunicacao-de-acidentes-ambientais/resource/1fba1942-3070-4434-8ce0-d7ea6137dee9)
-   - **Sobre:** é um dataset simples, mas eficaz, latitude e longitude dos municípios brasileiros;
-   - **Função:** este dataset foi útil para geolocalizar empresas, principalmente aquelas identificadas no 
+- [Coleção de CNPJs e CPFs brasileiros](https://brasil.io/dataset/documentos-brasil/documents/)
+   - **Sobre:** Documentos coletados de dados públicos, a partir dos seguintes datasets: socios-brasil, gastos-diretos, gastos-deputados, eleicoes. Nota: os CPFs foram ofuscados por questões de privacidade;
+   - **Função:** Coletou-se um conjunto de CNPJs que não constam na base de Cadastro de Empresas potencialmente poluidoras, para identificar padrões de empresas que não seria, a princípio, poluidoras.
 
-- [Áreas embargadas]()
-   - **Sobre:** é um dataset simples, mas eficaz, latitude e longitude dos municípios brasileiros;
-   - **Função:** este dataset foi útil para geolocalizar empresas, principalmente aquelas identificadas no 
+- [Acidentes ambientais](https://dados.gov.br/dataset/comunicacao-de-acidentes-ambientais/resource/1fba1942-3070-4434-8ce0-d7ea6137dee9)
+   - **Sobre:** Comunicações de acidentes ambientais registradas no Sistema Nacional de Emergências Ambientais (Siema);
+   - **Função:** Dados para de georeferenciamento, para serem comparados com a localização das operações do BNDES nos municípios. 
+
+- [Áreas embargadas](https://dados.gov.br/dataset/areas-embargadas-pelo-ibama/resource/e52f8170-4827-4255-bac0-244a25d552d4)
+   - **Sobre:** Dataset de Áreas Embargadas pelo IBAMA;
+   - **Função:** Dados para de georeferenciamento, para serem comparados com a localização das operações do BNDES nos municípios.
 
 - [Unidades de conservação](https://dados.gov.br/dataset/unidadesdeconservacao)
-   - **Sobre:** é um dataset simples, mas eficaz, latitude e longitude dos municípios brasileiros;
-   - **Função:** este dataset foi útil para geolocalizar empresas, principalmente aquelas identificadas no 
-
+   - **Sobre:** Lista das UCs ativas no CNUC com respectivas categorias de manejo, área, esfera de governo e ano de criação;
+   - **Função:** Dados para de georeferenciamento, para serem comparados com a localização das operações do BNDES nos municípios.
+        - Obs.: dados coletados com pacote do [GeoBR](https://github.com/ipeaGIT/geobr)
+    
 - [Incêndios](https://dados.gov.br/dataset/unidadesdeconservacao)
    - **Sobre:** é um dataset simples, mas eficaz, latitude e longitude dos municípios brasileiros;
    - **Função:** este dataset foi útil para geolocalizar empresas, principalmente aquelas identificadas no 
