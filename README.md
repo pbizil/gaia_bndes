@@ -6,14 +6,14 @@ Este projeto consiste em uma aplicação voltada para o Prêmio Dados Abertos do
 
 Gaia é um robô que identifica, através de informações sobre o CNPJ, a probabilidade da empresa ser uma poluidora do meio ambiente. O nome do modelo faz alusão à deusa da mitologia grega, que personifica a deusa da Terra, geradora de todos os deuses e criadora do planeta. 
 
-Produtos:
+##Produtos:
 
 - Análise exploratória dos dados de operações indiretas automáticas do BNDES;
 - Modelo de identificação do potencial poluidor de determinada empresa, a partir dos dados do CNPJ;
 - Dashboard em shiny com análise dos resultados das previsões do modelo Gaia;
 
 
-Bases de dados:
+##Bases de dados:
 
 - Operações indiretas automáticas do BNDES
 - Cadastro de empresas potencialmente poluidoras
@@ -29,22 +29,22 @@ Bases de dados:
    - Função: este dataset foi útil para geolocalizar empresas, principalmente aquelas identificadas no 
 
 
-Stack de tecnologia e ferramentas:
+##Stack de tecnologia e ferramentas:
 
 - Linguagem Python para extração e organizacao dados, além da modelagem do Gaia;
 - Linguagem R para visualização;
 - Shiny para criação do dashboard;
 - 
 
-Features do dashboard:
+##Features do dashboard:
 
 
-Referências:
+##Referências:
 
 - Minha receita:
 - Brasil.io:
 - BaseDosDados:
-- GeoBR:
+- [GeoBR](https://github.com/ipeaGIT/geobr):
 - [LightAutoML (LAMA)](https://github.com/sberbank-ai-lab/LightAutoML): é uma **framework open source de AutoML** desenvolvida pelo Sberbak AI Lab AutoML Group. É uma ferramenta para desenvolvimento de modelos que envolvam problemas de classificação binária, multiclass e regressão. 
 
 
