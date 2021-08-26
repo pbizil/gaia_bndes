@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" height="500" src="https://github.com/pbizil/gaia_bndes/blob/main/gaia_bndes.png">
+  <img width="500" height="450" src="https://github.com/pbizil/gaia_bndes/blob/main/gaia_bndes.png">
 </p>
 
 Este projeto consiste em uma aplicação voltada para o Prêmio Dados Abertos do BNDES. 
