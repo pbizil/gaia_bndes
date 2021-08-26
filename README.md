@@ -8,7 +8,7 @@ Gaia é um robô que identifica, através de informações sobre o CNPJ, a proba
 
 Produtos:
 
-- Análise exploratória dos dados de operações automáticas do BNDES;
+- Análise exploratória dos dados de operações indiretas automáticas do BNDES;
 - Modelo de identificação do potencial poluidor de determinada empresa, a partir dos dados do CNPJ;
 - Dashboard em shiny com análise dos resultados das previsões do modelo Gaia;
 
