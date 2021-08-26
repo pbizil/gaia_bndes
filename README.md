@@ -44,6 +44,8 @@ Esta aplicação foi criada com intuito de auxiliar às equipes de negócio BNDE
 - [Reservas indígenas](https://github.com/kelvins/Municipios-Brasileiros)
    - **Sobre:** é um dataset simples, mas eficaz, latitude e longitude dos municípios brasileiros;
    - **Função:** este dataset foi útil para geolocalizar empresas, principalmente aquelas identificadas no 
+        - Obs.: dados coletados com pacote do [GeoBR](https://github.com/ipeaGIT/geobr)
+   
 - [Geolocalização dos municípios brasileiros](https://github.com/kelvins/Municipios-Brasileiros)
    - **Sobre:** é um dataset simples, mas eficaz, latitude e longitude dos municípios brasileiros;
    - **Função:** este dataset foi útil para geolocalizar empresas, principalmente aquelas identificadas no 
