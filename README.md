@@ -12,12 +12,16 @@ Produtos:
 - Modelo de identificação do potencial poluidor de determinada empresa, a partir dos dados do CNPJ;
 - Dashboard em shiny com análise dos resultados das previsões do modelo Gaia;
 
+Features do dashboard:
+
+
 Bases de dados:
 
 - Operações indiretas automáticas do BNDES
 - Cadastro de empresas potencialmente poluidoras
 - Acidentes ambientais
 - Áreas embargadas 
+- Unidades de conservacão 
 - Incêndios
 - Reservas indígenas
 - Geolocalização dos municípios 
