@@ -12,8 +12,6 @@ Produtos:
 - Modelo de identificação do potencial poluidor de determinada empresa, a partir dos dados do CNPJ;
 - Dashboard em shiny com análise dos resultados das previsões do modelo Gaia;
 
-Features do dashboard:
-
 
 Bases de dados:
 
@@ -23,10 +21,22 @@ Bases de dados:
 - Áreas embargadas 
 - Unidades de conservacão 
 - Incêndios
-- Reservas indígenas
-- Geolocalização dos municípios 
+- [Reservas indígenas](https://github.com/kelvins/Municipios-Brasileiros)
+   - Sobre: é um dataset simples, mas eficaz, latitude e longitude dos municípios brasileiros;
+   - Função: este dataset foi útil para geolocalizar empresas, principalmente aquelas identificadas no 
+- [Geolocalização dos municípios brasileiros](https://github.com/kelvins/Municipios-Brasileiros)
+   - Sobre: é um dataset simples, mas eficaz, latitude e longitude dos municípios brasileiros;
+   - Função: este dataset foi útil para geolocalizar empresas, principalmente aquelas identificadas no 
 
-Stack de tecnologia:
+
+Stack de tecnologia e ferramentas:
+
+- Linguagem Python para extração e organizacao dados, além da modelagem do Gaia;
+- Linguagem R para visualização;
+- Shiny para criação do dashboard;
+- 
+
+Features do dashboard:
 
 
 Referências:
