@@ -68,7 +68,7 @@ Esta aplicação foi criada com intuito de auxiliar às equipes de negócio BNDE
 - Shiny para criação do dashboard;
 - Biblioteca Leaflet para visualização de dados geolocalizados;
 - Biblioteca LightAutoML para construção do modelo Gaia;
-- Modelo de NLP pré-treinado;
+- Modelo [BERT](https://huggingface.co/bert-base-multilingual-cased) para processar os textos em dados tabulares;
 
 ## Features do dashboard:
 
