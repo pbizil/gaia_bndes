@@ -29,6 +29,10 @@ Esta aplicação foi criada com intuito de auxiliar às equipes de negócio BNDE
    - **Sobre:** Documentos coletados de dados públicos, a partir dos seguintes datasets: socios-brasil, gastos-diretos, gastos-deputados, eleicoes. Nota: os CPFs foram ofuscados por questões de privacidade;
    - **Função:** Coletou-se um conjunto de CNPJs que não constam na base de Cadastro de Empresas potencialmente poluidoras, para identificar padrões de empresas que não seria, a princípio, poluidoras.
 
+- [Emissão de Poluentes Atmosféricos](https://dados.gov.br/dataset/emissoes-de-poluentes-atmosfericos/resource/4c94cd16-9dde-4a4c-bcaa-0b113bd37926)
+   - **Sobre:** Relação das pessoas jurídicas inscritas no Cadastro Técnico Federal de Atividades Potencialmente Poluidoras e Utilizadoras de Recursos Naturais – CTF/APP e cadastradas em atividades para as quais é obrigatório o preenchimento do formulário “Emissões de Poluentes Atmosféricos” no Relatório Anual de Atividades Potencialmente Poluidoras e Utilizadoras de Recursos Ambientais – RAPP;
+   - **Função:** Dados que serviram para identificar concentração de poluentes atmosféricos por municípios. 
+
 - [Acidentes ambientais](https://dados.gov.br/dataset/comunicacao-de-acidentes-ambientais/resource/1fba1942-3070-4434-8ce0-d7ea6137dee9)
    - **Sobre:** Comunicações de acidentes ambientais registradas no Sistema Nacional de Emergências Ambientais (Siema);
    - **Função:** Dados para de georeferenciamento, para serem comparados com a localização das operações do BNDES nos municípios. 
@@ -41,14 +45,14 @@ Esta aplicação foi criada com intuito de auxiliar às equipes de negócio BNDE
    - **Sobre:** Lista das UCs ativas no CNUC com respectivas categorias de manejo, área, esfera de governo e ano de criação;
    - **Função:** Dados para de georeferenciamento, para serem comparados com a localização das operações do BNDES nos municípios.
         - Obs.: dados coletados com pacote do [GeoBR](https://github.com/ipeaGIT/geobr)
-    
-- [Incêndios](https://dados.gov.br/dataset/unidadesdeconservacao)
-   - **Sobre:** é um dataset simples, mas eficaz, latitude e longitude dos municípios brasileiros;
-   - **Função:** este dataset foi útil para geolocalizar empresas, principalmente aquelas identificadas no 
+  
+- [Ocorrências de Incêndio Florestais](https://dados.gov.br/dataset/sisfogo-registro-de-ocorrencias-de-incendio-roi/resource/2042f6b8-73a5-4797-b892-399fea60e429)
+   - **Sobre:** Registro de Ocorrências de Incêndio verificadas pelas brigadas Prevfogo;
+   - **Função:** Dados para de georeferenciamento, para serem comparados com a localização das operações do BNDES nos municípios.
 
-- [Reservas indígenas](https://github.com/kelvins/Municipios-Brasileiros)
-   - **Sobre:** é um dataset simples, mas eficaz, latitude e longitude dos municípios brasileiros;
-   - **Função:** este dataset foi útil para geolocalizar empresas, principalmente aquelas identificadas no 
+- [Reservas indígenas](https://dados.gov.br/dataset/tabela-de-terras-indigenas)
+   - **Sobre:** Tabelas que contém dados sobre as terras indígenas, aldeias, Coordenações Regionais e Coordenações Técnicas Locais da Funai.;
+   - **Função:** Dados para de georeferenciamento, para serem comparados com a localização das operações do BNDES nos municípios
         - Obs.: dados coletados com pacote do [GeoBR](https://github.com/ipeaGIT/geobr)
    
 - [Geolocalização dos municípios brasileiros](https://github.com/kelvins/Municipios-Brasileiros)
