@@ -70,9 +70,9 @@ O modelo preditivo Gaia foi desenvolvido com redes neurais através da bibliotec
 - Linguagem Python para extração e organizacao dados, além da modelagem do Gaia;
 - Linguagem R para visualização;
 - SQL para requisição de dados de CNPJ;
-- Shiny para criação do dashboard;
-- Biblioteca Leaflet para visualização de dados geolocalizados;
-- Biblioteca LightAutoML para construção do modelo Gaia;
+- [ShinyDashboard](https://github.com/rstudio/shinydashboard) para criação do interface de visualização;
+- [Leaflet](https://github.com/rstudio/leaflet) para visualização de dados geolocalizados;
+- [LightAutoML (LAMA)](https://github.com/sberbank-ai-lab/LightAutoML) para construção do modelo Gaia;
 - Modelo [BERT](https://huggingface.co/bert-base-multilingual-cased) para processar os textos em dados tabulares;
 
 ## Features do dashboard:
