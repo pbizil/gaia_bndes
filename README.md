@@ -13,14 +13,14 @@ O modelo preditivo Gaia foi desenvolvido com redes neurais através da bibliotec
 
 
 
-## Produtos:
+## Produtos
 
 - Análise exploratória dos dados de operações diretas e indiretas automáticas do BNDES;
 - Modelo de identificação do potencial poluidor de determinada empresa, a partir dos dados do CNPJ;
 - Dashboard em shiny com análise dos resultados das previsões do modelo Gaia sobre os dados de operações automáticas indiretas a partir de 2016;
 
 
-## Bases de dados:
+## Bases de dados
 
 - [Operações indiretas automáticas do BNDES](https://dadosabertos.bndes.gov.br/dataset/operacoes-financiamento/resource/9534f677-9525-4bf8-a3aa-fd5d3e152a93) 
    - **Sobre:** Informações detalhadas sobre as operações indiretas contratadas de forma automática. Nas operações indiretas, a análise do financiamento é feita pela instituição financeira credenciada, que assume o risco de não pagamento da operação. É ela também que negocia com o cliente as condições do financiamento, como prazo de pagamento, spread de risco e garantias exigidas, respeitando algumas regras e limites definidos pelo BNDES. Não foram incluídas nesta listagem as operações do Cartão BNDES e nem as contratadas com Pessoas Físicas. Dados, em reais, a partir de 2002;
@@ -70,7 +70,7 @@ O modelo preditivo Gaia foi desenvolvido com redes neurais através da bibliotec
 
 
 
-## Stack de tecnologia e ferramentas:
+## Stack de tecnologia e ferramentas
 
 - Linguagem Python para extração e organizacao dados, além da modelagem do Gaia;
 - Linguagem R para visualização;
@@ -81,10 +81,10 @@ O modelo preditivo Gaia foi desenvolvido com redes neurais através da bibliotec
 - [LightAutoML (LAMA)](https://github.com/sberbank-ai-lab/LightAutoML) para construção do modelo Gaia;
 - Modelo [BERT](https://huggingface.co/bert-base-multilingual-cased) para processar os textos em dados tabulares;
 
-## Features do dashboard:
+## Features do dashboard
 
 
-## Referências:
+## Referências
 
 - [Minha Receita](https://github.com/cuducos/minha-receita): API web para consulta de informações do CNPJ (Cadastro Nacional da Pessoa Jurídica) da Receita Federal.
 - [Brasil.io](https://github.com/turicas/brasil.io): referência para quem procura ou quer publicar dados abertos sobre o Brasil de forma organizada, legível por máquina e usando padrões abertos. 
