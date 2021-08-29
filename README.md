@@ -15,7 +15,7 @@ O modelo preditivo Gaia foi desenvolvido com redes neurais através da bibliotec
 
 ## Produtos:
 
-- Análise exploratória dos dados de operações indiretas automáticas do BNDES;
+- Análise exploratória dos dados de operações diretas e indiretas automáticas do BNDES;
 - Modelo de identificação do potencial poluidor de determinada empresa, a partir dos dados do CNPJ;
 - Dashboard em shiny com análise dos resultados das previsões do modelo Gaia sobre os dados de operações automáticas indiretas a partir de 2016;
 
@@ -62,7 +62,12 @@ O modelo preditivo Gaia foi desenvolvido com redes neurais através da bibliotec
    
 - [Geolocalização dos municípios brasileiros](https://github.com/kelvins/Municipios-Brasileiros)
    - **Sobre:** é um dataset simples, mas eficaz, latitude e longitude dos municípios brasileiros;
-   - **Função:** este dataset foi útil para geolocalizar empresas, principalmente aquelas identificadas no 
+   - **Função:** este dataset foi útil para geolocalizar empresas
+
+- [PIB municipal](https://www.ibge.gov.br/estatisticas/economicas/contas-nacionais/9088-produto-interno-bruto-dos-municipios.html?=&t=o-que-e)
+   - **Sobre:** São apresentados, a preços correntes, os valores adicionados brutos dos três grandes setores de atividade econômica – Agropecuária, Indústria e Serviços – bem como os impostos, líquidos de subsídios, o PIB e o PIB per capita;
+   - **Função:** útil para AED dos dados de financiamento
+
 
 
 ## Stack de tecnologia e ferramentas:
