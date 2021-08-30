@@ -84,6 +84,9 @@ O modelo preditivo Gaia foi desenvolvido com redes neurais através da bibliotec
 ## Features do dashboard
 
 
+## Autores
+
+
 ## Referências
 
 - [Minha Receita](https://github.com/cuducos/minha-receita): API web para consulta de informações do CNPJ (Cadastro Nacional da Pessoa Jurídica) da Receita Federal.
