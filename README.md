@@ -6,7 +6,7 @@ Este projeto consiste em uma aplicação voltada para o [Prêmio Dados Abertos p
 
 Gaia é um robô que identifica, através de informações sobre o CNPJ, a probabilidade da empresa ser uma poluidora do meio ambiente. O nome do modelo faz alusão à deusa da mitologia grega, que personifica a deusa da Terra, geradora de todos os deuses e criadora do planeta. 
 
-Esta aplicação foi criada com intuito de auxiliar às equipes de negócio BNDES a identificar como a carteira de clientes está exposta ao risco ambiental, principalmente daqueles riscos envolvidos nas empresas que tomam crédito junto ao banco.
+Esta aplicação foi criada com intuito de auxiliar as equipes de negócio BNDES a identificar como a carteira de clientes está exposta ao risco ambiental.
 
 ## Links importantes
 
