@@ -76,7 +76,9 @@ O modelo preditivo Gaia foi desenvolvido com redes neurais através da bibliotec
 
 ## Features do dashboard
 
-
+<p align="center">
+  <img width="600" height="500" src="https://github.com/pbizil/gaia_bndes/blob/main/imgs/map_carbon.png">
+</p>
 
 ## Stack de tecnologia e ferramentas
 
