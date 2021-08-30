@@ -8,6 +8,11 @@ Gaia é um robô que identifica, através de informações sobre o CNPJ, a proba
 
 Esta aplicação foi criada com intuito de auxiliar às equipes de negócio BNDES a identificar como a carteira de clientes está exposta ao risco ambiental, principalmente daqueles riscos envolvidos nas empresas que tomam crédito junto ao banco.
 
+## Links importantes
+
+- [GAIA dashboard](https://hipotumos.shinyapps.io/gaia_bndes/)
+- AED Financiamentos
+- Video-pitch
 
 ## Produtos
 
