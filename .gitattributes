@@ -1,2 +1,2 @@
-ops_cnpj_completo.csv filter=lfs diff=lfs merge=lfs -text
 data/ops_cnpj_completo.csv filter=lfs diff=lfs merge=lfs -text
+modelagem/data_train/dataset_tr.csv filter=lfs diff=lfs merge=lfs -text
