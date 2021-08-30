@@ -11,7 +11,7 @@ Esta aplicação foi criada com intuito de auxiliar as equipes de negócio BNDES
 ## Links importantes
 
 - [GAIA dashboard](https://hipotumos.shinyapps.io/gaia_bndes/)
-- AED Financiamentos
+- [AED Financiamentos](https://github.com/pbizil/gaia_bndes/tree/main/aed_financiamentos)
 - [Video-pitch](https://youtu.be/FqjpXhEEr8w)
 
 ## Produtos
