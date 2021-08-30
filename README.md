@@ -99,7 +99,7 @@ O modelo preditivo Gaia foi desenvolvido com redes neurais através da bibliotec
 - Renata Guanaes
 - [Pedro Andrade](pedrokeyloger@gmail.com)
 
-## Referências
+## Créditos
 
 Agradecemos a todos projetos open-source que tornaram o desenvolvimento dessa solução possível. Tks! :slightly_smiling_face:
 
