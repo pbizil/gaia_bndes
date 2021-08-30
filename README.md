@@ -72,7 +72,7 @@ Esta aplicação foi criada com intuito de auxiliar as equipes de negócio BNDES
 ## Modelagem
 
 
-O modelo preditivo Gaia foi desenvolvido com redes neurais através da biblioteca [LightAutoML (LAMA)](https://github.com/sberbank-ai-lab/LightAutoML). Para processar os textos de variáveis como razão social e CNAE dos clientes, utilizou-se do modelo de vetorização pré-treinado [BERT multilingual base model (cased)](https://huggingface.co/bert-base-multilingual-cased).
+O modelo preditivo Gaia foi desenvolvido com redes neurais através da biblioteca [LightAutoML (LAMA)](https://github.com/sberbank-ai-lab/LightAutoML). Para processar os textos de variáveis como razão social e CNAE dos clientes, utilizou-se do modelo de vetorização pré-treinado [BERT multilingual base model (cased)](https://huggingface.co/bert-base-multilingual-cased), desenvolvido pelo [Google Research](https://github.com/google-research/bert).
 
 ## Features do dashboard
 
@@ -96,7 +96,7 @@ O modelo preditivo Gaia foi desenvolvido com redes neurais através da bibliotec
 
 ## Autores
 
-- Renata Guanaes
+- [Renata Guanaes](rguanaes@gmail.com)
 - [Pedro Andrade](pedrokeyloger@gmail.com)
 
 ## Créditos
