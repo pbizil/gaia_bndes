@@ -106,7 +106,7 @@ Agradecemos a todos projetos open-source que tornaram o desenvolvimento dessa so
 - [Minha Receita](https://github.com/cuducos/minha-receita): API web para consulta de informações do CNPJ (Cadastro Nacional da Pessoa Jurídica) da Receita Federal.
 - [Brasil.io](https://github.com/turicas/brasil.io): referência para quem procura ou quer publicar dados abertos sobre o Brasil de forma organizada, legível por máquina e usando padrões abertos. 
 - [BaseDosDados](https://basedosdados.org/): plataforma que visa facilitar o acesso a base de dados nacionais e internacionais. 
-- [GeoBR](https://github.com/ipeaGIT/geobr): pacote em R com dados georeferenciados do Brasil sobre diversos temas. Neste trabalho, utilizou-se o georeferenciamento de reservas indígenas e unidades de conservação, ambas bases do IBAMA.
+- [GeoBR](https://github.com/ipeaGIT/geobr): pacote em R com dados georeferenciados do Brasil sobre diversos temas. Neste trabalho, utilizou-se o georeferenciamento de Reservas Indígenas (FUNAI) e Unidades de Conservação (IBAMA).
 - [LightAutoML (LAMA)](https://github.com/sberbank-ai-lab/LightAutoML): é uma **framework open source de AutoML** desenvolvida pelo Sberbak AI Lab AutoML Group. É uma ferramenta para desenvolvimento de modelos que envolvam problemas de classificação binária, multiclass e regressão. 
 - [HuggingFace](https://huggingface.co/): Comunidade de AI para compartilhar modelos pré-treinados, principalmente voltados a processamento de linguagem natural. 
 
