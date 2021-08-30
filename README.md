@@ -99,7 +99,7 @@ O modelo preditivo Gaia foi desenvolvido com redes neurais através da bibliotec
 
 ## Referências
 
-Agradecemos a todos projetos open-source que ajudaram no desenvolvimento dessa solução.
+Agradecemos a todos projetos open-source que tornaram o desenvolvimento dessa solução possível. Tks! :)
 
 - [Minha Receita](https://github.com/cuducos/minha-receita): API web para consulta de informações do CNPJ (Cadastro Nacional da Pessoa Jurídica) da Receita Federal.
 - [Brasil.io](https://github.com/turicas/brasil.io): referência para quem procura ou quer publicar dados abertos sobre o Brasil de forma organizada, legível por máquina e usando padrões abertos. 
