@@ -69,16 +69,26 @@ Esta aplicação foi criada com intuito de auxiliar as equipes de negócio BNDES
    - **Sobre:** São apresentados, a preços correntes, os valores adicionados brutos dos três grandes setores de atividade econômica – Agropecuária, Indústria e Serviços – bem como os impostos, líquidos de subsídios, o PIB e o PIB per capita;
    - **Função:** útil para AED dos dados de financiamento
 
-## Modelagem
 
+## Modelagem
 
 O modelo preditivo Gaia foi desenvolvido com redes neurais através da biblioteca [LightAutoML (LAMA)](https://github.com/sberbank-ai-lab/LightAutoML). Para processar os textos de variáveis como razão social e CNAE dos clientes, utilizou-se do modelo de vetorização pré-treinado [BERT multilingual base model (cased)](https://huggingface.co/bert-base-multilingual-cased), desenvolvido pelo [Google Research](https://github.com/google-research/bert).
 
+
 ## Features do dashboard
+
+Para analisar os resultados do modelo, criou-se um dashboard com as seguintes funcionalidades:
+- Análise Exploratória dos Dados sobre de dados de financiamentos diretos e indiretos;
+- Análise Exploratória dos Dados sobre os resultados gerados pelo modelo Gaia;
+- Painel de consulta dos riscos ambientais, por município e CNAE, sobre operações indiretas automáticas; Mapas interativos sobre:
+  - Distribuição espacial das operações de financiamento, sejam poluidoras ou não, em comparação com a emissão de carbono;
+  - Distribuição espacial das operações de financiamento, sejam poluidoras ou não, com áreas de Unidade de Conservação, Terras Indígenas e Áreas Embargadas;
+  - Distribuição espacial das operações de financiamento, sejam poluidoras ou não, com pontos de acidentes ambientais e incêndios florestais.
 
 <p align="center">
   <img width="1000" height="450" src="https://github.com/pbizil/gaia_bndes/blob/main/imgs/map_carbon.png">
 </p>
+
 
 ## Stack de tecnologia e ferramentas
 
