@@ -12,7 +12,7 @@ Esta aplicação foi criada com intuito de auxiliar às equipes de negócio BNDE
 
 - [GAIA dashboard](https://hipotumos.shinyapps.io/gaia_bndes/)
 - AED Financiamentos
-- Video-pitch
+- [Video-pitch](https://youtu.be/FqjpXhEEr8w)
 
 ## Produtos
 
