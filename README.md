@@ -6,11 +6,7 @@ Este projeto consiste em uma aplicação voltada para o [Prêmio Dados Abertos p
 
 Gaia é um robô que identifica, através de informações sobre o CNPJ, a probabilidade da empresa ser uma poluidora do meio ambiente. O nome do modelo faz alusão à deusa da mitologia grega, que personifica a deusa da Terra, geradora de todos os deuses e criadora do planeta. 
 
-Esta aplicação foi criada com intuito de auxiliar às equipes de negócio BNDES a identificar como a carteira de clientes está a exposta ao risco ambiental, principalmente dos riscos envolvidos nas empresas que tomam crédito.
-
-O modelo preditivo Gaia foi desenvolvido com redes neurais através da biblioteca [LightAutoML (LAMA)](https://github.com/sberbank-ai-lab/LightAutoML). Para processar os textos de variáveis como razão social e CNAE dos clientes, utilizou-se do modelo de vetorização pré-treinado [BERT multilingual base model (cased)](https://huggingface.co/bert-base-multilingual-cased).
-
-
+Esta aplicação foi criada com intuito de auxiliar às equipes de negócio BNDES a identificar como a carteira de clientes está exposta ao risco ambiental, principalmente daqueles riscos envolvidos nas empresas que tomam crédito junto ao banco.
 
 
 ## Produtos
@@ -68,6 +64,13 @@ O modelo preditivo Gaia foi desenvolvido com redes neurais através da bibliotec
    - **Sobre:** São apresentados, a preços correntes, os valores adicionados brutos dos três grandes setores de atividade econômica – Agropecuária, Indústria e Serviços – bem como os impostos, líquidos de subsídios, o PIB e o PIB per capita;
    - **Função:** útil para AED dos dados de financiamento
 
+## Modelagem
+
+
+O modelo preditivo Gaia foi desenvolvido com redes neurais através da biblioteca [LightAutoML (LAMA)](https://github.com/sberbank-ai-lab/LightAutoML). Para processar os textos de variáveis como razão social e CNAE dos clientes, utilizou-se do modelo de vetorização pré-treinado [BERT multilingual base model (cased)](https://huggingface.co/bert-base-multilingual-cased).
+
+## Features do dashboard
+
 
 
 ## Stack de tecnologia e ferramentas
@@ -81,13 +84,15 @@ O modelo preditivo Gaia foi desenvolvido com redes neurais através da bibliotec
 - [LightAutoML (LAMA)](https://github.com/sberbank-ai-lab/LightAutoML) para construção do modelo Gaia;
 - Modelo [BERT](https://huggingface.co/bert-base-multilingual-cased) para processar os textos em dados tabulares;
 
-## Features do dashboard
+
 
 
 ## Autores
 
 
 ## Referências
+
+Agradecemos a todos projetos open-source que ajudaram no desenvolvimento dessa solução.
 
 - [Minha Receita](https://github.com/cuducos/minha-receita): API web para consulta de informações do CNPJ (Cadastro Nacional da Pessoa Jurídica) da Receita Federal.
 - [Brasil.io](https://github.com/turicas/brasil.io): referência para quem procura ou quer publicar dados abertos sobre o Brasil de forma organizada, legível por máquina e usando padrões abertos. 
