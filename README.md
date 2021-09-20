@@ -2,7 +2,7 @@
   <img width="500" height="450" src="https://github.com/pbizil/gaia_bndes/blob/main/gaia_bndes.png">
 </p>
 
-:trophy: Este projeto consiste em uma aplicação ganhadora do [Prêmio Dados Abertos para o Desenvolvimento](https://www.bndes.gov.br/wps/portal/site/home/transparencia/iniciativas/!ut/p/z0/fY5PC4JAFMTvfYoue5S3QmRXs_APEUgedC_y0iVe5a7ubtLHT0Q8NocZfjADAwJKEApHeqAjrfA9cSX2dZDHURLu_MuhSCKeR9kEQezHqQ_ZZjtrsxqI_4tyWSz1NaCi5zCIEESjlZNfB-Xxejrf6lRZR-7TzI8YT3QnGS8MKtujkaohZJwUTeloRMt4b2RH2mux1dbDuzROW-hfovoBqFEnTw!!/), realizado pelo BNDES. 
+:trophy: Este projeto consiste em uma aplicação vencedora do [Prêmio Dados Abertos para o Desenvolvimento](https://www.bndes.gov.br/wps/portal/site/home/transparencia/iniciativas/!ut/p/z0/fY5PC4JAFMTvfYoue5S3QmRXs_APEUgedC_y0iVe5a7ubtLHT0Q8NocZfjADAwJKEApHeqAjrfA9cSX2dZDHURLu_MuhSCKeR9kEQezHqQ_ZZjtrsxqI_4tyWSz1NaCi5zCIEESjlZNfB-Xxejrf6lRZR-7TzI8YT3QnGS8MKtujkaohZJwUTeloRMt4b2RH2mux1dbDuzROW-hfovoBqFEnTw!!/), realizado pelo BNDES. 
 
 Gaia é um robô que identifica, através de informações sobre o CNPJ, a probabilidade da empresa ser uma poluidora do meio ambiente. O nome do modelo faz alusão à deusa da mitologia grega, que personifica a deusa da Terra, geradora de todos os deuses e criadora do planeta. 
 
